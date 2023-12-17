@@ -1,0 +1,115 @@
+.desktop-16 {
+  background-color: rgba(255, 255, 255, 1);
+  padding: 125px 158px 230px 104px;
+  display: flex;
+  align-items: flex-start;
+}
+.rectangle-1 {
+  width: 242px;
+  height: 3494px;
+  background-color: rgba(82, 0, 188, 1);
+  margin-right: 36px;
+  border-radius: 20px;
+}
+.flex-wrapper-two {
+  padding: 37px 0 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.flex-wrapper-one {
+  background-color: rgba(217, 217, 217, 1);
+  margin-bottom: 47px;
+  border-radius: 15px;
+  padding: 34px 106px 39px 26px;
+  display: flex;
+  align-items: flex-start;
+}
+.systematic-investment-plan {
+  font-family: "Inter";
+  font-size: 46px;
+  font-weight: 600;
+  line-height: normal;
+  color: rgba(99, 93, 93, 1);
+  margin-right: 21px;
+}
+.s-i-p {
+  font-family: "Inter";
+  font-size: 46px;
+  font-weight: 600;
+  line-height: normal;
+  color: rgba(78, 69, 69, 1);
+  margin-top: 4px;
+}
+.rectangle-23 {
+  width: 900px;
+  height: 3048px;
+  background-color: rgba(217, 217, 217, 1);
+  border-radius: 15px;
+  
+}
+
+.rectangle-23 {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #2c3e50;
+}
+
+#calculator-container {
+  background-color: #ecf0f1;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  max-width: 400px;
+  width: 100%;
+  text-align: center;
+  overflow: hidden;
+}
+
+h2 {
+  color: #3498db;
+}
+
+label {
+  color: #333;
+  font-weight: bold;
+}
+
+input {
+  width: 100%;
+  padding: 8px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: 1px solid #bdc3c7;
+  border-radius: 4px;
+}
+
+button {
+  background-color: #3498db;
+  color: #fff;
+  border: none;
+  padding: 10px;
+  width: 100%;
+  cursor: pointer;
+  border-radius: 4px;
+  transition: background-color 0.3s;
+}
+
+button:hover {
+  background-color: #2980b9;
+}
+
+#result {
+  font-size: 1.2em;
+  color: #27ae60;
+  margin-top: 20px;
+}
+
+#chart-container {
+  margin-top: 20px;
+}

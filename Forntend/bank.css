@@ -1,0 +1,32 @@
+.desktop-21 {
+  background-color: rgba(185, 206, 209, 1);
+  padding: 125px 116px 157px 104px;
+  display: flex;
+  align-items: flex-start;
+}
+.rectangle-1 {
+  width: 242px;
+  height: 1461px;
+  background-color: rgba(82, 0, 188, 1);
+  margin-right: 30px;
+  border-radius: 20px;
+}
+.flex-wrapper-one {
+  background-color: rgba(234, 234, 234, 1);
+  margin-top: 8px;
+  border-radius: 8px;
+  padding: 33px 175px 1343px 146px;
+  display: flex;
+  align-items: flex-start;
+}
+.enter-your-bank-deatils {
+  height: 77px;
+  width: 627px;
+  font-family: "Inter";
+  font-size: 53px;
+  font-weight: 600;
+  line-height: normal;
+  color: rgba(91, 80, 80, 1);
+  display: flex;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}

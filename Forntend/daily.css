@@ -1,0 +1,40 @@
+.desktop-17 {
+  background-color: rgba(255, 255, 255, 1);
+  padding: 125px 158px 125px 104px;
+  display: flex;
+  align-items: flex-start;
+}
+.rectangle-1 {
+  width: 242px;
+  height: 1851px;
+  background-color: rgba(82, 0, 188, 1);
+  margin-right: 36px;
+  border-radius: 20px;
+}
+.flex-wrapper-two {
+  padding: 37px 0 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.flex-wrapper-one {
+  background-color: rgba(217, 217, 217, 1);
+  margin-bottom: 47px;
+  border-radius: 15px;
+  padding: 31px 398px 31px 80px;
+  display: flex;
+  align-items: center;
+}
+.daily-expenses {
+  font-family: "Inter";
+  font-size: 57px;
+  font-weight: 600;
+  line-height: normal;
+  color: rgba(99, 93, 93, 1);
+}
+.rectangle-23 {
+  width: 900px;
+  height: 1507px;
+  background-color: rgba(217, 217, 217, 1);
+  border-radius: 15px;
+}

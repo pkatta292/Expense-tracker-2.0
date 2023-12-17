@@ -1,0 +1,84 @@
+.desktop-10 {
+    background-color: rgba(80, 73, 73, 1);
+    padding: 0 0 151px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .flex-wrapper-one {
+    background-color: rgba(50, 49, 49, 1);
+    margin-bottom: 15px;
+    border-radius: 10px;
+    padding: 0 69px 10px 26px;
+    display: flex;
+    align-items: flex-start;
+  }
+  .flex-wrapper-three {
+    margin-right: 678px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .be52e7b5-b3d5-49d9-a437-1a968856fd1c-1 {
+    width: 153px;
+    height: 114px;
+  }
+  .money-minder {
+    width: 176px;
+    font-family: "Inter";
+    font-size: 21px;
+    font-weight: 200;
+    line-height: normal;
+    color: rgba(255, 255, 255, 1);
+    font-style: italic;
+  }
+  .log-in {
+    font-family: "Inter";
+    font-size: 21px;
+    font-weight: 400;
+    line-height: normal;
+    color: rgba(255, 255, 255, 1);
+    font-style: italic;
+    margin-top: 70px;
+    margin-right: 23px;
+  }
+  .signup {
+    font-family: "Inter";
+    font-size: 21px;
+    font-weight: 400;
+    line-height: normal;
+    color: rgba(255, 255, 255, 1);
+    font-style: italic;
+    margin-top: 68px;
+    margin-right: 39px;
+  }
+  .flex-wrapper-two {
+    background-color: rgba(32, 32, 32, 1);
+    margin-top: 46px;
+    border-radius: 20px;
+    padding: 20px 48px 19px;
+    display: flex;
+    align-items: center;
+  }
+  .get-started {
+    font-family: "Inter";
+    font-size: 29px;
+    font-weight: 600;
+    line-height: normal;
+    color: rgba(255, 255, 255, 1);
+  }
+  .log-in-two {
+    height: 53px;
+    width: 170.52px;
+    font-family: "Inter";
+    font-size: 49px;
+    font-weight: 600;
+    line-height: normal;
+    color: rgba(255, 255, 255, 1);
+    display: flex;
+    margin-bottom: 15px;
+  }
+  .android-small-1 {
+    width: 360px;
+    height: 640px;
+  }

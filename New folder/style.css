@@ -1,0 +1,95 @@
+.desktop-1 {
+    background-color: rgba(80, 73, 73, 1);
+    padding: 8px 0 1258px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .flex-wrapper-one {
+    background-color: rgba(50, 49, 49, 1);
+    margin-bottom: 324px;
+    border-radius: 10px;
+    padding: 1px 69px 35px 37px;
+    display: flex;
+    align-items: flex-start;
+  }
+  .relative-wrapper-one {
+    margin-right: 690px;
+    position: relative;
+  }
+  .money-minder {
+    width: 176px;
+    font-family: "Inter";
+    font-size: 21px;
+    font-weight: 200;
+    line-height: normal;
+    color: rgba(255, 255, 255, 1);
+    font-style: italic;
+    position: absolute;
+    right: -23px;
+    bottom: -23px;
+  }
+  .be52e7b5-b3d5-49d9-a437-1a968856fd1c-1 {
+    width: 153px;
+    height: 114px;
+    position: relative;
+  }
+  .log-in {
+    font-family: "Inter";
+    font-size: 21px;
+    font-weight: 400;
+    line-height: normal;
+    color: rgba(255, 255, 255, 1);
+    font-style: italic;
+    margin-top: 61px;
+    margin-right: 23px;
+  }
+  .signup {
+    font-family: "Inter";
+    font-size: 21px;
+    font-weight: 400;
+    line-height: normal;
+    color: rgba(255, 255, 255, 1);
+    font-style: italic;
+    margin-top: 59px;
+    margin-right: 39px;
+  }
+  .flex-wrapper-two {
+    background-color: rgba(32, 32, 32, 1);
+    margin-top: 37px;
+    border-radius: 20px;
+    padding: 20px 48px 19px;
+    display: flex;
+    align-items: center;
+  }
+  .get-started {
+    font-family: "Inter";
+    font-size: 29px;
+    font-weight: 600;
+    line-height: normal;
+    color: rgba(255, 255, 255, 1);
+  }
+  .num-88824e7a-d830-4628-8a24-6c68c6c713c0-1 {
+    width: 789px;
+    height: 687px;
+    margin-bottom: 181px;
+  }
+  .num-15da6c35-ae9e-4317-a8b0-bd773ecd617d-1 {
+    width: 829px;
+    height: 920px;
+    margin-bottom: 279px;
+    margin-left: 507px;
+  }
+  .num-7694ee67-d592-4b68-b3c3-b01379033634-1 {
+    width: 846px;
+    height: 918px;
+    margin-bottom: 279px;
+  }
+  .a8f7bee6-1f98-4af5-b3ad-41f615aba83d-1 {
+    width: 935px;
+    height: 981px;
+    margin-left: 505px;
+  }
+
+
+  

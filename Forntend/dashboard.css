@@ -1,0 +1,83 @@
+.desktop-20 {
+  background-color: rgba(255, 255, 255, 1);
+  padding: 125px 175px 53px 104px;
+  display: flex;
+  align-items: flex-start;
+}
+.rectangle-1 {
+  width: 242px;
+  height: 4655px;
+  background-color: rgba(82, 0, 188, 1);
+  margin-right: 19px;
+  border-radius: 20px;
+}
+.flex-wrapper-four {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.flex-wrapper-one {
+  background-color: rgba(217, 217, 217, 1);
+  margin-bottom: 47px;
+  border-radius: 15px;
+  padding: 34px 250px 34px 181px;
+  display: flex;
+  align-items: center;
+}
+.monthly-expenses {
+  font-family: "Inter";
+  font-size: 53px;
+  font-weight: 600;
+  line-height: normal;
+  color: rgba(99, 93, 93, 1);
+}
+.rectangle-17 {
+  width: 900px;
+  height: 623px;
+  background-color: rgba(217, 217, 217, 1);
+  margin-bottom: 47px;
+  border-radius: 15px;
+}
+.rectangle-20 {
+  width: 900px;
+  height: 367px;
+  background-color: rgba(217, 217, 217, 1);
+  margin-bottom: 44px;
+  border-radius: 15px;
+}
+.flex-wrapper-two {
+  background-color: rgba(217, 217, 217, 1);
+  margin-bottom: 47px;
+  border-radius: 15px;
+  padding: 36px 250px 32px 181px;
+  display: flex;
+  align-items: flex-start;
+}
+.rectangle-19 {
+  width: 900px;
+  height: 746px;
+  background-color: rgba(217, 217, 217, 1);
+  margin-bottom: 47px;
+  border-radius: 15px;
+}
+.rectangle-21 {
+  width: 900px;
+  height: 342px;
+  background-color: rgba(217, 217, 217, 1);
+  margin-bottom: 69px;
+  border-radius: 15px;
+}
+.flex-wrapper-three {
+  background-color: rgba(217, 217, 217, 1);
+  margin-bottom: 47px;
+  border-radius: 15px;
+  padding: 34px 156px 34px 128px;
+  display: flex;
+  align-items: center;
+}
+.rectangle-23 {
+  width: 900px;
+  height: 1671px;
+  background-color: rgba(217, 217, 217, 1);
+  border-radius: 15px;
+}

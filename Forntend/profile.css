@@ -1,0 +1,44 @@
+.desktop-14 {
+    background-color: rgba(255, 255, 255, 1);
+    padding: 125px 118px 99px 104px;
+    display: flex;
+    align-items: flex-start;
+  }
+  .rectangle-1 {
+    width: 242px;
+    height: 800px;
+    background-color: rgba(82, 0, 188, 1);
+    margin-right: 24px;
+    border-radius: 20px;
+  }
+  .flex-wrapper-one {
+    padding: 12px 0 0;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .flex-wrapper-two {
+    margin-bottom: 25px;
+    padding: 0 0 0 44px;
+    display: flex;
+    align-items: center;
+  }
+  .ellipse-2 {
+    width: 203px;
+    height: 203px;
+    background-color: rgba(217, 217, 217, 1);
+    margin-right: 22px;
+    border-radius: 50%;
+  }
+  .rectangle-10 {
+    width: 162px;
+    height: 43px;
+    background-color: rgba(217, 217, 217, 1);
+    border-radius: 30px;
+  }
+  .rectangle-11 {
+    width: 952px;
+    height: 560px;
+    background-color: rgba(217, 217, 217, 1);
+    border-radius: 20px;
+  }

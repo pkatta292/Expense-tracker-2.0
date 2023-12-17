@@ -1,0 +1,209 @@
+.desktop-15 {
+  background-color: rgba(255, 255, 255, 1);
+  padding: 125px 134px 263px 104px;
+  display: flex;
+  align-items: flex-start;
+}
+.relative-wrapper-two {
+  margin-right: 29px;
+  position: relative;
+}
+.bank-accounts {
+  height: 29px;
+  width: 194px;
+  font-family: "Inter";
+  font-size: 19px;
+  font-weight: 600;
+  line-height: normal;
+  color: rgba(255, 255, 255, 1);
+  display: flex;
+  position: absolute;
+  right: -13px;
+  top: 298px;
+}
+.notificatio {
+  height: 29px;
+  width: 194px;
+  font-family: "Inter";
+  font-size: 19px;
+  font-weight: 600;
+  line-height: normal;
+  color: rgba(255, 255, 255, 1);
+  display: flex;
+  position: absolute;
+  right: -13px;
+  top: 351px;
+}
+.settings {
+  height: 29px;
+  width: 194px;
+  font-family: "Inter";
+  font-size: 19px;
+  font-weight: 600;
+  line-height: normal;
+  color: rgba(255, 255, 255, 1);
+  display: flex;
+  position: absolute;
+  right: -13px;
+  top: 406px;
+}
+.flex-wrapper-one {
+  background-color: rgba(82, 0, 188, 1);
+  border-radius: 20px;
+  padding: 142px 7px 1060px 30px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+}
+.flex-wrapper-five {
+  margin-bottom: 25px;
+  display: flex;
+  align-items: center;
+}
+.vector {
+  width: 10.84%;
+  height: 68.48%;
+  margin-right: 13px;
+}
+.dashboard {
+  width: 135px;
+  font-family: "Inter";
+  font-size: 19px;
+  font-weight: 600;
+  line-height: normal;
+  color: rgba(255, 255, 255, 1);
+}
+.flex-wrapper-six {
+  margin-bottom: 25px;
+  padding: 0 0 0 1px;
+  display: flex;
+  align-items: flex-start;
+}
+.vector-two {
+  width: 8.82%;
+  height: 46.55%;
+  margin-top: 2px;
+  margin-right: 12px;
+}
+.transactions {
+  height: 29px;
+  width: 175px;
+  font-family: "Inter";
+  font-size: 19px;
+  font-weight: 600;
+  line-height: normal;
+  color: rgba(255, 255, 255, 1);
+  display: flex;
+}
+.flex-wrapper-seven {
+  margin-bottom: 26px;
+  display: flex;
+  align-items: flex-start;
+}
+.vector-three {
+  width: 16.36%;
+  height: 62.07%;
+  margin-top: 4px;
+  margin-right: 13px;
+}
+.relative-wrapper-one {
+  position: relative;
+}
+.card {
+  height: 29px;
+  width: 79px;
+  font-family: "Inter";
+  font-size: 19px;
+  font-weight: 600;
+  line-height: normal;
+  color: rgba(255, 255, 255, 1);
+  display: flex;
+  position: relative;
+}
+.text {
+  height: 29px;
+  width: 56px;
+  font-family: "Inter";
+  font-size: 19px;
+  font-weight: 600;
+  line-height: normal;
+  color: rgba(255, 255, 255, 1);
+  display: flex;
+  position: absolute;
+  right: 11px;
+  top: -5px;
+}
+.vector-four {
+  width: 8.78%;
+  height: 6.32%;
+  margin-bottom: 36.06px;
+}
+.vector-five {
+  width: 8.78%;
+  height: 6.34%;
+}
+.vector-five:not(:last-of-type) {
+  margin-bottom: 37px;
+}
+.flex-wrapper-four {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.frame-1 {
+  width: 1px;
+  height: 2px;
+  margin-left: 50px;
+}
+.relative-wrapper-three {
+  margin-bottom: 19px;
+  position: relative;
+}
+.frame-2 {
+  width: 8px;
+  height: 3px;
+  position: absolute;
+  left: 0;
+  top: 19px;
+}
+.flex-wrapper-two {
+  background-color: rgba(217, 217, 217, 1);
+  border-radius: 10px;
+  padding: 25px 23px 24px 29px;
+  display: flex;
+  align-items: center;
+  position: relative;
+}
+.card-transactions {
+  font-family: "Inter";
+  font-size: 48px;
+  font-weight: 600;
+  line-height: normal;
+  color: rgba(99, 93, 93, 1);
+  margin-right: 221px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.flex-wrapper-three {
+  background-color: rgba(170, 179, 202, 1);
+  border-radius: 50px;
+  padding: 18px 48px 19px 47px;
+  display: flex;
+  align-items: center;
+}
+.link-your-bank {
+  font-family: "Inter";
+  font-size: 19px;
+  font-weight: 600;
+  line-height: normal;
+  color: rgba(65, 44, 44, 1);
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.rectangle-12 {
+  width: 931px;
+  height: 1356px;
+  background-color: rgba(217, 217, 217, 1);
+  border-radius: 10px;
+}
+
+

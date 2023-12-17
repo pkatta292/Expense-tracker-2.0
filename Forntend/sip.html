@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="sip.css">
+    <title>sip</title>
+</head>
+  <body>
+    
+    <div class="desktop-16">
+      <div class="rectangle-1"></div>
+      <div class="flex-wrapper-two">
+        <div class="flex-wrapper-one">
+          <p class="systematic-investment-plan">
+            Systematic Investment Plan
+          </p>
+          <p class="s-i-p">(S I P)</p>
+        </div>
+
+
+        <div class="rectangle-23">
+          <div id="calculator-container">
+            <h2>SIP Calculator</h2>
+            <label for="investment">Monthly Investment (INR): </label>
+            <input type="number" id="investment" min="0" placeholder="Enter amount">
+            <br>
+            <label for="rate">Expected Annual Return (%): </label>
+            <input type="number" id="rate" min="0" max="100" placeholder="Enter rate">
+            <br>
+            <label for="period">Investment Period (Years): </label>
+            <input type="number" id="period" min="0" placeholder="Enter period">
+            <br>
+            <button onclick="calculateSIP()">Calculate</button>
+            <h3 id="result"></h3>
+            <div id="chart-container">
+              <canvas id="doughnutChart" width="300" height="300"></canvas>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script>
+      function calculateSIP() {
+        const investment = parseFloat(document.getElementById('investment').value);
+        const rate = parseFloat(document.getElementById('rate').value) / 100;
+        const period = parseInt(document.getElementById('period').value);
+  
+        const monthlyRate = rate / 12;
+        const totalMonths = period * 12;
+  
+        const futureValue = investment * (((1 + monthlyRate) ** totalMonths - 1) / monthlyRate) * (1 + monthlyRate);
+  
+        document.getElementById('result').innerText = `Future Value: INR ${futureValue.toFixed(2)}`;
+  
+        // Doughnut Chart
+        const ctx = document.getElementById('doughnutChart').getContext('2d');
+        const doughnutChart = new Chart(ctx, {
+          type: 'doughnut',
+          data: {
+            labels: ['Investment', 'Returns'],
+            datasets: [{
+              data: [investment, futureValue - investment],
+              backgroundColor: ['#3498db', '#27ae60'],
+            }],
+          },
+          options: {
+            cutout: '70%',
+            animation: {
+              animateScale: true,
+              animateRotate: true
+            },
+          },
+        });
+      }
+    </script>
+  </body>
+</html>

@@ -1,0 +1,163 @@
+.android-large-1 {
+    background-color: rgba(255, 255, 255, 1);
+    padding: 10px 67px 12px 0;
+    position: relative;
+  }
+  .rectangle-24 {
+    width: 293px;
+    height: 778px;
+    background-color: rgba(82, 0, 188, 1);
+    border-radius: 15px;
+    position: relative;
+  }
+  .rectangle-25 {
+    width: 75px;
+    height: 75px;
+    background-color: rgba(217, 217, 217, 1);
+    border-radius: 50px;
+    position: absolute;
+    left: 31px;
+    top: 31px;
+  }
+  .rectangle-26 {
+    width: 126px;
+    height: 28px;
+    background-color: rgba(217, 217, 217, 1);
+    border-radius: 50px;
+    position: absolute;
+    right: 109px;
+    top: 55px;
+  }
+  .dashboard {
+    height: 18px;
+    width: 124px;
+    font-family: "Inter";
+    font-size: 19px;
+    font-weight: 600;
+    line-height: normal;
+    color: rgba(255, 255, 255, 1);
+    display: flex;
+    position: absolute;
+    left: 73px;
+    top: 152px;
+  }
+  .transactions {
+    height: 23px;
+    width: 161px;
+    font-family: "Inter";
+    font-size: 19px;
+    font-weight: 600;
+    line-height: normal;
+    color: rgba(255, 255, 255, 1);
+    display: flex;
+    position: absolute;
+    left: 73px;
+    top: 190px;
+  }
+  .card {
+    height: 24px;
+    width: 73px;
+    font-family: "Inter";
+    font-size: 19px;
+    font-weight: 600;
+    line-height: normal;
+    color: rgba(255, 255, 255, 1);
+    display: flex;
+    position: absolute;
+    left: 73px;
+    top: 233px;
+  }
+  .bank-accounts {
+    height: 23px;
+    width: 178px;
+    font-family: "Inter";
+    font-size: 19px;
+    font-weight: 600;
+    line-height: normal;
+    color: rgba(255, 255, 255, 1);
+    display: flex;
+    position: absolute;
+    left: 73px;
+    top: 277px;
+  }
+  .notificatio {
+    height: 23px;
+    width: 178px;
+    font-family: "Inter";
+    font-size: 19px;
+    font-weight: 600;
+    line-height: normal;
+    color: rgba(255, 255, 255, 1);
+    display: flex;
+    position: absolute;
+    left: 73px;
+    top: 319px;
+  }
+  .settings {
+    height: 23px;
+    width: 178px;
+    font-family: "Inter";
+    font-size: 19px;
+    font-weight: 600;
+    line-height: normal;
+    color: rgba(255, 255, 255, 1);
+    display: flex;
+    position: absolute;
+    left: 73px;
+    top: 363px;
+  }
+  .text {
+    height: 24px;
+    width: 52px;
+    font-family: "Inter";
+    font-size: 19px;
+    font-weight: 600;
+    line-height: normal;
+    color: rgba(255, 255, 255, 1);
+    display: flex;
+    position: absolute;
+    left: 84px;
+    top: 229px;
+  }
+  .vector {
+    width: 4.58%;
+    height: 1.35%;
+    position: absolute;
+    left: 45.92px;
+    top: 191.93px;
+  }
+  .vector-two {
+    width: 4.58%;
+    height: 1.57%;
+    position: absolute;
+    left: 45px;
+    top: 155.2px;
+  }
+  .vector-three {
+    width: 4.58%;
+    height: 1.8%;
+    position: absolute;
+    left: 45px;
+    top: 236.66px;
+  }
+  .vector-four {
+    width: 4.58%;
+    height: 1.79%;
+    position: absolute;
+    left: 45px;
+    top: 277.39px;
+  }
+  .vector-five {
+    width: 4.58%;
+    height: 1.8%;
+    position: absolute;
+    left: 45px;
+    top: 364.44px;
+  }
+  .vector-six {
+    width: 4.58%;
+    height: 1.8%;
+    position: absolute;
+    left: 45px;
+    top: 320.51px;
+  }

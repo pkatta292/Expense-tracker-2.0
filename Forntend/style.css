@@ -1,0 +1,276 @@
+.desktop-4 {
+    background-color: rgba(250, 251, 253, 1);
+    padding: 112px 104px 112px 102px;
+    display: flex;
+    align-items: flex-start;
+  }
+  .rectangle-1 {
+    width: 242px;
+    height: 1200px;
+    background-color: rgba(82, 0, 188, 1);
+    margin-right: 19px;
+    border-radius: 20px;
+  }
+
+
+  .Menu-rec-1{
+    display: block;
+    width: 135px;
+    
+    font-family: "Inter";
+    font-size: 19px;
+    font-weight: 500;
+    line-height: normal;
+    color: rgb(226, 224, 224);
+    margin-top: 170px;
+    margin-bottom: 25px;
+    margin-left: 80px;
+  }
+
+  .vector-one {
+    width: 1.25%;
+    height: 1.54%;
+    position: absolute;
+    margin-left: -30px;
+    margin-top: 9px;
+  }
+
+  .vector-two{
+    width: 1.25%;
+    height: 1.54%;
+    position: absolute;
+    margin-left: -30px;
+    margin-top: 3px;
+  }
+
+  .vector-three{
+    width: 1.25%;
+    height: 1.54%;
+    position: absolute;
+    margin-left: -30px;
+    margin-top: 7px;
+
+  }
+
+  .vector-four{
+    width: 1.25%;
+    height: 1.54%;
+    position: absolute;
+    margin-left: -30px;
+    margin-top: 3px;
+
+  }
+  .bank-accounts{
+    justify-content: center;
+    align-items: center;
+    display: inline-block;
+    width: 135px;
+    font-family: "Inter";
+    font-size: 19px;
+    font-weight: 500;
+    line-height: normal;
+    color: rgb(226, 224, 224);
+    
+    
+  }
+
+
+  .vector-five{
+    width: 1.25%;
+    height: 1.54%;
+    position: absolute;
+    margin-left: -30px;
+    margin-top: fpx;
+
+  }
+
+  .vector-six{
+    width: 1.25%;
+    height: 1.54%;
+    position: absolute;
+    margin-left: -30px;
+    margin-top: 2px;
+
+  }
+
+
+  .flex-wrapper-two {
+    margin-right: 18px;
+    padding: 2px 0 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .flex-wrapper-four {
+    margin-bottom: 18px;
+    display: flex;
+    align-items: flex-start;
+  }
+  .rectangle-5 {
+    width: 163px;
+    height: 101px;
+    background-color: rgba(230, 251, 255, 1);
+    margin-right: 17px;
+    border-radius: 15px;
+    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
+  }
+  .rectangle-6 {
+    
+    width: 163px;
+    height: 101px;
+    background: linear-gradient(
+        rgba(247, 238, 255, 1),
+        rgba(247, 238, 255, 1)
+      ),
+      rgba(217, 217, 217, 1);
+    margin-right: 18px;
+    border-radius: 15px;
+    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
+  }
+  .rectangle-7 {
+    width: 163px;
+    height: 101px;
+    background-color: rgba(232, 248, 245, 1);
+    border-radius: 15px;
+    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
+  }
+  .current-balance{
+    font-family: "Inter";
+    font-size: 17px;
+   font-weight: 400;
+   line-height: normal;
+   color: rgb(200, 196, 196);
+   margin-left: 10px;
+
+  }
+
+  .rectangle-2 {
+    
+    width: 573px;
+    height: 350px;
+    background-color: rgba(219, 214, 205, 1);
+    margin-bottom: 15px;
+    border-radius: 15px;
+    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
+  }
+
+ 
+
+  .latest-transactions {
+    font-family: "Inter";
+    font-size: 17px;
+    font-weight: 400;
+    color: rgb(114, 110, 110);
+    margin-left: 10px;
+  }
+  .rectangle-3 {
+    width: 573px;
+    height: 644px;
+    background-color: rgba(219, 214, 205, 1);
+    border-radius: 15px;
+    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
+  }
+
+  .Amount-Transfer{
+    font-family: "Inter";
+    font-size: 17px;
+    font-weight: 400;
+    line-height: normal;
+    color: rgb(114, 110, 110);
+    margin-left: 10px;
+  }
+
+  .flex-wrapper-three {
+    padding: 8px 0 0;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .flex-wrapper-five {
+    margin-bottom: 115px;
+    padding: 0 0 0 326px;
+    display: flex;
+    align-items: center;
+  }
+  .line-1 {
+    width: 1px;
+    height: 27px;
+    background-color: rgba(0, 0, 0, 1);
+    margin-right: 60px;
+  }
+  .ellipse-1 {
+    width: 38px;
+    height: 38px;
+    background-color: rgba(217, 217, 217, 1);
+    border-radius: 50%;
+    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
+  }
+  .latest-transactions-two {
+    font-family: "Inter";
+    font-size: 17px;
+    font-weight: 600;
+    line-height: normal;
+    color: rgb(94, 92, 92);
+    margin-top: 1px;
+    margin-right: 37px;
+  }
+  .rectangle-4 {
+    width: 800px;
+    height: 600px;
+    background-color: rgba(219, 214, 205, 1);
+    border-radius: 15px;
+    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
+   
+  }
+  .history-box {
+    background-color: rgba(250, 247, 242, 1);
+    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
+    border-radius: 15px;
+    height: 1000px;
+    width: 500px;
+    display: grid;
+    position: relative;
+    right: 10px;
+    
+    
+  }
+  
+  .history-box tr td {
+    padding: 10px 8px 4px;
+
+  }
+
+
+  .history-box .imgbx{
+    position: relative;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    
+  }
+
+  .history-box .imgbx img
+  {
+    position: relative;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+
+
+
+  .expense-tracker {
+    font-family: "Inter";
+    font-size: 48px;
+    font-weight: 700;
+    line-height: normal;
+    color: rgba(57, 54, 54, 1);
+    margin-bottom: 10px;
+    text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  }
+
+
+
+

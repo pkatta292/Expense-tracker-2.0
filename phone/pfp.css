@@ -1,0 +1,46 @@
+.android-large-15 {
+    background-color: rgba(255, 255, 255, 1);
+    padding: 44px 31px 80px 25px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .vector {
+    width: 9.87%;
+    height: 3.87%;
+    margin-bottom: 42.86px;
+  }
+  .flex-wrapper-one {
+    margin-bottom: 32px;
+    padding: 0 0 0 107px;
+    display: flex;
+    align-items: flex-start;
+  }
+  .rectangle-25 {
+    width: 95px;
+    height: 95px;
+    background-color: rgba(217, 217, 217, 1);
+    border-radius: 50px;
+  }
+  .rectangle-28 {
+    width: 50px;
+    height: 20px;
+    background-color: rgba(217, 217, 217, 1);
+    margin-top: 75px;
+    border-radius: 75px;
+  }
+  .rectangle-26 {
+    width: 299px;
+    height: 35px;
+    background-color: rgba(217, 217, 217, 1);
+    margin-bottom: 11px;
+    margin-left: 5px;
+    border-radius: 75px;
+  }
+  .rectangle-27 {
+    width: 299px;
+    height: 434px;
+    background-color: rgba(217, 217, 217, 1);
+    margin-left: 5px;
+    border-radius: 25px;
+  }
